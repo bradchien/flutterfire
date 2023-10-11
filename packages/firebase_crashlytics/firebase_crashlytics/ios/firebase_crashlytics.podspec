@@ -34,9 +34,12 @@ Pod::Spec.new do |s|
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
 
-  s.ios.deployment_target = '11.0'
+  s.platforms = { :ios => "11.0", :macos => "10.14", :tvos => "12.0" }
+  # Flutter dependencies
+  s.ios.dependency 'Flutter'
+  s.tvos.dependency 'Flutter'
+  s.osx.dependency 'FlutterMacOS'
 
-  s.dependency 'Flutter'
   s.dependency 'firebase_core'
   s.dependency 'Firebase/Crashlytics', firebase_sdk_version
 

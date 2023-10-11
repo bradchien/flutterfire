@@ -1,3 +1,7 @@
+## 3.5.6
+
+- To support tvOS
+
 ## 3.5.5
 
  - Update a dependency to the latest release.
