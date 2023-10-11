@@ -1,3 +1,7 @@
+## 2.17.1
+
+ - To support tvOS
+
 ## 2.17.0
 
  - **FEAT**: bump Firebase android SDK `32.3.1` ([#11663](https://github.com/firebase/flutterfire/issues/11663)). ([639bc2ea](https://github.com/firebase/flutterfire/commit/639bc2eaabe320a533ec643d4f0c91d2ab3ea5d1))
