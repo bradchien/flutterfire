@@ -1,3 +1,7 @@
+## 2.17.3
+
+- Fix dependencies name
+
 ## 2.17.1
 
  - To support tvOS

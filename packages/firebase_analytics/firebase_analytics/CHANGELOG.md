@@ -1,3 +1,7 @@
+## 10.5.3
+
+- Fix dependencies name
+
 ## 10.5.2
 
  - To support tvOS
