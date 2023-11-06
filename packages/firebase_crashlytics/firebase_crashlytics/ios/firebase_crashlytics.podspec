@@ -41,7 +41,7 @@ Pod::Spec.new do |s|
   s.osx.dependency 'FlutterMacOS'
 
   s.dependency 'firebase_core'
-  s.dependency 'Firebase/Crashlytics', firebase_sdk_version
+  s.dependency 'FirebaseCrashlytics', firebase_sdk_version
 
   s.static_framework = true
   s.pod_target_xcconfig = {
