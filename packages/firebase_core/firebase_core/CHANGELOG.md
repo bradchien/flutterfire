@@ -1,6 +1,6 @@
 ## 2.31.1
 
-- To support tvOS
+ - To support tvOS
 
 ## 2.31.0
 
