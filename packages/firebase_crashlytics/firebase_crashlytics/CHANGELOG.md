@@ -1,7 +1,3 @@
-## 3.3.9
-
-- Modify dependencies name
-
 ## 3.3.8
 
 - To support tvOS
