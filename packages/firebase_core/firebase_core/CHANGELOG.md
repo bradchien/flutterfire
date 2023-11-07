@@ -1,3 +1,7 @@
+## 2.17.4
+
+ - Revert build error
+
 ## 2.17.1
 
  - To support tvOS

@@ -1,3 +1,7 @@
+## 10.5.4
+
+ - Revert build error
+
 ## 10.5.2
 
  - To support tvOS

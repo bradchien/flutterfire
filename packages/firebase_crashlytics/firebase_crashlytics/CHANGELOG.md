@@ -1,3 +1,7 @@
+## 3.3.10
+
+- Revert build error
+
 ## 3.3.8
 
 - To support tvOS
